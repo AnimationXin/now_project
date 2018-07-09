@@ -63,10 +63,4 @@ css  : this-is-css {}
 ```
 
 #### 后端交互
-
-```
-项目为前后端分离架构，所有与后端的交互均为restful请求。
-
-项目中所有与后端的交互使用vue-resource，并将其封装在services/dataService.js文件中
-```
-
+![Image_text](https://raw.githubusercontent.com/AnimationXin/JavaScript/master/%E4%BB%8E0%E5%BC%80%E5%A7%8B/images/QQ%E5%9B%BE%E7%89%8720180709193807.png)
